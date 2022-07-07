@@ -41,9 +41,9 @@ if __name__ == "__main__":
     # Initialize Basic Message Sender which creates a connection
     # and channel for sending messages.
     basic_message_sender = BasicMessageSender(
-        "b-8e6d8176-e3dc-4e5e-854c-dcb093946e3c",
+        "b-8e6d8176-e3dc-4e5 6e3c",
         "admin",
-        "anand12341234",
+        "an 234",
         "us-east-1"
     )
 
